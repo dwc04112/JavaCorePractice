@@ -1,2 +1,5 @@
-package kr.ac.daegu.ysy.Student;public interface Student {
+package kr.ac.daegu.ysy.Student;
+
+public interface Student {
+    void printStudentInfo();
 }
