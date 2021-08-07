@@ -5,7 +5,7 @@ public class YsyPizza implements pizzaBaker{
     private String ingrediant;
     private int temperature;
 
-    private YsyPizza() {};
+    public YsyPizza() {};
     //Ysy 인스턴스 생성할때 기본 생성자를 사용하지 못하도록 조치
     //사실 여기에서 작성할필요x
     //왜냐면 이미 bread ingrediant 인자를 받는 생성자를 만들었기 때문
@@ -26,6 +26,7 @@ public class YsyPizza implements pizzaBaker{
     }
 
 
+
     @Override
     public void Pizzadelivery() {
         String info = this.baking();
@@ -38,7 +39,20 @@ public class YsyPizza implements pizzaBaker{
             System.out.println("그럭저럭 피자 완성");
         }
 
+    }
 
+
+
+
+    @Override
+    public void Inbread(String Inbread) {
+        System.out.println("빵에 들어간 재료는 " + Inbread + "입니다");
+    }
+
+
+    @Override
+    public void Intem(int Intem) {
+        System.out.println("이 빵을 구운 온도는 " +Intem + "입니다. ");
     }
 }
 

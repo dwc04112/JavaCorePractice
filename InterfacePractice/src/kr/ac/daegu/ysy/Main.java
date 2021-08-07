@@ -97,7 +97,19 @@ public class Main {
         for(YsyPizza yp : pizzaBakers){
             yp.Pizzadelivery();
         }
+        System.out.println("=========");
+        // 컬렉션 프레임워크에서의 제네릭 : <TYPE> 와 관계된 객체만 넣을수 있다
+        List<pizzaBaker> pizzaBakers1 = new ArrayList<>();
+        pizzaBakers1.add(new YsyPizza("호밀빵","감자",150));
+        for(YsyPizza yp : pizzaBakers){
+            yp.Pizzadelivery();
+        }
 
+        System.out.println("=========");
+
+        pizzaBaker ysypizza = new YsyPizza();
+        ysypizza.Inbread("밀");
+        ysypizza.Intem(50);
 
 
 
