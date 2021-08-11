@@ -4,11 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BookExample/BookExample.iml" filepath="$PROJECT_DIR$/BookExample/BookExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassPracitce/ClassPracitce.iml" filepath="$PROJECT_DIR$/ClassPracitce/ClassPracitce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionPractice/CollectionPractice.iml" filepath="$PROJECT_DIR$/CollectionPractice/CollectionPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConstructorPractice/ConstructorPractice.iml" filepath="$PROJECT_DIR$/ConstructorPractice/ConstructorPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorPractice2/ConstructorPractice2.iml" filepath="$PROJECT_DIR$/ConstructorPractice2/ConstructorPractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstructorPractice3/ConstructorPractice3.iml" filepath="$PROJECT_DIR$/ConstructorPractice3/ConstructorPractice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateTimePractice/DateTimePractice.iml" filepath="$PROJECT_DIR$/DateTimePractice/DateTimePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendsAbstractPractice/ExtendsAbstractPractice.iml" filepath="$PROJECT_DIR$/ExtendsAbstractPractice/ExtendsAbstractPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendsPractice/ExtendsPractice.iml" filepath="$PROJECT_DIR$/ExtendsPractice/ExtendsPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMapPractice/HashMapPractice.iml" filepath="$PROJECT_DIR$/HashMapPractice/HashMapPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacePractice/InterfacePractice.iml" filepath="$PROJECT_DIR$/InterfacePractice/InterfacePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacePractice2/InterfacePractice2.iml" filepath="$PROJECT_DIR$/InterfacePractice2/InterfacePractice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfacePractice3/InterfacePractice3.iml" filepath="$PROJECT_DIR$/InterfacePractice3/InterfacePractice3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCorePractice.iml" filepath="$PROJECT_DIR$/.idea/JavaCorePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/StaticPractice/StaticPractice.iml" filepath="$PROJECT_DIR$/StaticPractice/StaticPractice.iml" />
     </modules>
