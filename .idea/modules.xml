@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationPractice/AnnotationPractice.iml" filepath="$PROJECT_DIR$/AnnotationPractice/AnnotationPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/BookExample/BookExample.iml" filepath="$PROJECT_DIR$/BookExample/BookExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClassPracitce/ClassPracitce.iml" filepath="$PROJECT_DIR$/ClassPracitce/ClassPracitce.iml" />
       <module fileurl="file://$PROJECT_DIR$/CollectionPractice/CollectionPractice.iml" filepath="$PROJECT_DIR$/CollectionPractice/CollectionPractice.iml" />
@@ -11,6 +12,12 @@
       <module fileurl="file://$PROJECT_DIR$/DateTimePractice/DateTimePractice.iml" filepath="$PROJECT_DIR$/DateTimePractice/DateTimePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendsAbstractPractice/ExtendsAbstractPractice.iml" filepath="$PROJECT_DIR$/ExtendsAbstractPractice/ExtendsAbstractPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExtendsPractice/ExtendsPractice.iml" filepath="$PROJECT_DIR$/ExtendsPractice/ExtendsPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExample/FileExample.iml" filepath="$PROJECT_DIR$/FileExample/FileExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExample2/FileExample2.iml" filepath="$PROJECT_DIR$/FileExample2/FileExample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExample3/FileExample3.iml" filepath="$PROJECT_DIR$/FileExample3/FileExample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExample4/FileExample4.iml" filepath="$PROJECT_DIR$/FileExample4/FileExample4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExample5/FileExample5.iml" filepath="$PROJECT_DIR$/FileExample5/FileExample5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileExample6/FileExample6.iml" filepath="$PROJECT_DIR$/FileExample6/FileExample6.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashMapPractice/HashMapPractice.iml" filepath="$PROJECT_DIR$/HashMapPractice/HashMapPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacePractice/InterfacePractice.iml" filepath="$PROJECT_DIR$/InterfacePractice/InterfacePractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterfacePractice2/InterfacePractice2.iml" filepath="$PROJECT_DIR$/InterfacePractice2/InterfacePractice2.iml" />
