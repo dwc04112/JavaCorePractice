@@ -22,12 +22,12 @@ public class SequenceInputStreamTest {
             fIn2 = new FileInputStream("test2.txt");
             fIn3 = new FileInputStream("test3.txt");
 
-            Vector v = new Vector();
+            Vector v = new Vector();        //array와 비슷하지만 스레드 지원여부 차이
             v.add(fIn1);
             v.add(fIn2);
             v.add(fIn3);
 
-            Enumeration fIns =v.elements();
+            Enumeration fIns =v.elements();         //iterator와 비슷하지만 스레드지원여부 차이   Vector는 Enumeration 사용
             si1 = new SequenceInputStream(fIns);
 
             int var_readbyte = -1;
