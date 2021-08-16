@@ -1,5 +1,5 @@
 package kr.ac.daegu.ysy.Coffe;
-
+/*
 public class MyStyleCoffee implements Coffee {
         private String beans;
         private String temp;
@@ -23,3 +23,5 @@ public class MyStyleCoffee implements Coffee {
         System.out.println(order);
     }
 }
+
+ */

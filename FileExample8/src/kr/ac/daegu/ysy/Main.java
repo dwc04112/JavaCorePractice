@@ -1,6 +1,7 @@
 package kr.ac.daegu.ysy;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
 
 //p490
 public class Main {
@@ -29,9 +30,11 @@ public class Main {
             dos.writeLong(30);
             dos.writeUTF("datastream test");
 
+
+
+
             fi= new FileInputStream(".\\FileExample8\\demo\\dataFile.txt");
             dis= new DataInputStream(fi);   // java <- file (INPUT)
-
             System.out.println(dis.readUnsignedShort());  // 65535 : unsigned(음수없음), short(2byte, 2^16)
             //sign : 부호가 있는것 : 1byte , 2^7    unsigned 의 1 byte는 2^8 (부호자리가 필요없어서)
 

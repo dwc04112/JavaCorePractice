@@ -10,9 +10,10 @@ public class FileOutputStreamTest {
 
     public static void main(String[] args) {
         FileOutputStream fo = null;
+        //FileOutputStream = 특정 대상 파일로 내용을 출력
         String msg = "안녕안녕안녕안녕";
         byte [] byteArray = msg.getBytes(StandardCharsets.UTF_8);
-        //문자열 msg를 byte로 가져온다 .
+        //문자열(String 타입) msg를 byte로 가져온다 .
         // StandarCharsets.UTF_8을 넣어서 안전하게 한글도 사용가능하게
 
 

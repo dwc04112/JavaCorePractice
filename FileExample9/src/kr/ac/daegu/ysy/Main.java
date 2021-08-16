@@ -32,6 +32,7 @@ public class Main {
 
             // 데이터가 버퍼 사이즈만큼 전부 채워 지길 기다렸다가 flush 하는 경우 (비움)
             bw.flush();
+            // flush를 해주어야 데이터들이 최종적으로 출력
             // 여기서 q를 입력받아야 flush로 넘어가서 위의ABCD가 bufferWriter.txt 에 입력된다
 
 

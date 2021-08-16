@@ -16,8 +16,14 @@ public class Member {
         this.weight = weight;
         this.nation = nation;
     }
-
-    public String getName() {
+    @Override
+    public String toString(){
+        return "이름 : "+name
+                +" || 몸무게 : "+weight
+                +" || 키 : "+height
+                +" || 국적 : "+nation;
+    }
+    public String getName() {//get set 메소드를 통해서 private 해당 변수에 접근
         return name;
     }
     //set이 없으면 가져오는 것만 가능
@@ -48,5 +54,9 @@ public class Member {
     public void setNation(String nation) {
         this.nation = nation;
     }
+
+
+
+
 }
 

@@ -5,6 +5,7 @@ public class House {
     String dong;
     int size;
     String kind;
+
     public House(){
         //System.out.println("this 보다 앞에서 실행");
         this(100, 32, "상계동", "아파트");
