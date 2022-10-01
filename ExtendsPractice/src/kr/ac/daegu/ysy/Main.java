@@ -32,7 +32,6 @@ class Salesman2 extends Employee2{ //상속
     public Salesman2(String name, String dept, int salary, int commition){
         //super() : 부모에게서 상속받은 필드나 메소드를 자식클래스(여기)에서 참조
         super(name,dept,salary);
-
         this.commisstion = commition;
     }
      /*String getEmployeeInfo(){
